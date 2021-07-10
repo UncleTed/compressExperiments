@@ -21,3 +21,4 @@ Use the convert program which is part of ImageMagic
 
 ### Bibliography
 - https://im.snibgo.com/noise.htm
+- https://brunogirin.blogspot.com/2009/09/making-noise-with-imagemagick.html
